@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "text": "The Circle",
+      "day": "Dave Eggers",
+      "page": "504",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "The Devil and The Dark Water",
+      "day": "Stuart Turton",
+      "page": "329",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "The Seven Deaths of Evelyn Hardcastle",
+      "day": "Stuart Turton",
+      "page": "545",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Animal Farm",
+      "day": "George Orwell",
+      "page": "135",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}

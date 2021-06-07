@@ -1,0 +1,2 @@
+For JSON server: npm run server
+for task tracker: npm start
