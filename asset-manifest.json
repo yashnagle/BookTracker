@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BookTracker/static/css/main.8bf3e02c.chunk.css",
+    "main.js": "/BookTracker/static/js/main.5ca56812.chunk.js",
+    "main.js.map": "/BookTracker/static/js/main.5ca56812.chunk.js.map",
+    "runtime-main.js": "/BookTracker/static/js/runtime-main.f5d3e1db.js",
+    "runtime-main.js.map": "/BookTracker/static/js/runtime-main.f5d3e1db.js.map",
+    "static/js/2.897f9785.chunk.js": "/BookTracker/static/js/2.897f9785.chunk.js",
+    "static/js/2.897f9785.chunk.js.map": "/BookTracker/static/js/2.897f9785.chunk.js.map",
+    "static/js/3.9a2abcf8.chunk.js": "/BookTracker/static/js/3.9a2abcf8.chunk.js",
+    "static/js/3.9a2abcf8.chunk.js.map": "/BookTracker/static/js/3.9a2abcf8.chunk.js.map",
+    "index.html": "/BookTracker/index.html",
+    "static/css/main.8bf3e02c.chunk.css.map": "/BookTracker/static/css/main.8bf3e02c.chunk.css.map",
+    "static/js/2.897f9785.chunk.js.LICENSE.txt": "/BookTracker/static/js/2.897f9785.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d3e1db.js",
+    "static/js/2.897f9785.chunk.js",
+    "static/css/main.8bf3e02c.chunk.css",
+    "static/js/main.5ca56812.chunk.js"
+  ]
+}
